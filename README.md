@@ -1,3 +1,3 @@
-# React / Redux Boilerplate
+# React Whiteboard
 
-This was last updated 2/20/2017
+A very simple mockup of a trello-style board app.
